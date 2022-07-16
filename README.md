@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning HTML/CSS/Javascript
 - 💞️ I’m looking to collaborate on Web projects
-- 📫 How to reach me - Here on Github
+- 📫 How to reach me - 
 
 <!---
 lorenzohill/lorenzohill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
